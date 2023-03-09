@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is AC1E-3008
-
- Directory of C:\Users\102244\OneDrive - Sunera Technologies\Desktop\NewProject
-
-03/09/2023  01:22 PM    <DIR>          .
-03/09/2023  01:22 PM    <DIR>          ..
-03/09/2023  01:22 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  358,585,032,704 bytes free
+Changed 1
